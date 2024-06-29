@@ -1,0 +1,6 @@
+name: cpp-notebook
+channels:
+  - conda-forge
+dependencies:
+  - xeus-cling
+  - jupyter
