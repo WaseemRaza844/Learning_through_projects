@@ -19,7 +19,7 @@ Mainly involves installing various tools like Apache Druid, Kafka Cluster, MySQL
 
 2. Apache Spark Analytics
 https://projectsbasedlearning.com/category/apache-spark-analytics/
-	
+
 Vehicle Sales Report – Data Analysis
 https://projectsbasedlearning.com/apache-spark-analytics/vehicle-sales-report-data-analysis/
 
