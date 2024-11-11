@@ -1,5 +1,5 @@
 
-## NLP Projects for Begineers (Completed)
+## G1. NLP Projects for Begineers (Completed)
 
 ### P01. - ML Sentence Classification
 Developed a sentence classification model using traditional machine learning techniques (e.g., Naive Bayes, SVM, or Logistic Regression) to classify sentences into different categories. This project demonstrates foundational knowledge in text processing, feature extraction (like TF-IDF), and the application of machine learning models to classify text data.
@@ -17,7 +17,7 @@ Developed a simple machine translation model to translate sentences from one lan
 Implemented a text generation model to generate coherent sentences or paragraphs based on a prompt. This project may use techniques like RNNs, LSTMs, or Transformers for generating human-like text, showcasing experience with natural language generation tasks.
 
 
-## Natural Language Proecessing
+## G2. Natural Language Proecessing
 
 ### P01. - Fake News Classification
 Developed a model to detect and classify news articles as real or fake. This project involved feature extraction from text data, data preprocessing, and training a classification model to distinguish between reliable and unreliable news sources. It showcases skills in text classification, model evaluation, and handling imbalanced data.
@@ -37,7 +37,7 @@ Conducted sentiment analysis on news headlines related to the Dow Jones Industri
 ### P06. - Sentiment Analysis - Restaurant Reviews
 Built a sentiment analysis model to classify customer reviews for restaurants as positive, negative, or neutral. This project demonstrates skills in text analysis and customer feedback interpretation, which are useful for improving user experience and service quality in the hospitality industry.
 
-## GeekForGeeks Projects (Completed, and On-going)
+## G3. GeekForGeeks Projects (Completed, and On-going)
 ### P01. Text Summarization
 Developed an NLP-based text summarization tool that automatically condenses long pieces of text into concise summaries, preserving essential information and key points. This project leverages techniques like extractive and abstractive summarization to enhance readability and efficiency.
 
@@ -75,4 +75,23 @@ Developed a simple rule-based or machine learning-based chatbot capable of under
 
 ### P10. - Sentiment Analysis with Python
 Created a sentiment analysis tool to classify text data by emotional tone (e.g., positive, negative, neutral). This project involved training a model to identify sentiment in text, making it useful for analyzing customer feedback, social media, and more.
+
+
+## G4. Advanced NLP Projects with TensorFlow-2.0
+
+Advanced-NLP-Projects-with-TensorFlow-2.0
+https://github.com/PacktPublishing/Advanced-NLP-Projects-with-TensorFlow-2.0/tree/master
+
+
+
+
+
+
+
+
+
+
+
+
+
 
