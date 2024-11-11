@@ -20,37 +20,36 @@ Mainly involves installing various tools like Apache Druid, Kafka Cluster, MySQL
 2. Apache Spark Analytics
 https://projectsbasedlearning.com/category/apache-spark-analytics/
 	
-	Vehicle Sales Report – Data Analysis
-	https://projectsbasedlearning.com/apache-spark-analytics/vehicle-sales-report-data-analysis/
+Vehicle Sales Report – Data Analysis
+https://projectsbasedlearning.com/apache-spark-analytics/vehicle-sales-report-data-analysis/
 
+Video Game Sales Data Analysis
+https://projectsbasedlearning.com/apache-spark-analytics/video-game-sales-data-analysis/
 
-	Video Game Sales Data Analysis
-	https://projectsbasedlearning.com/apache-spark-analytics/video-game-sales-data-analysis/
+SLACK Data Analysis
+https://projectsbasedlearning.com/apache-spark-analytics/slack-data-analysis/
 
-	SLACK Data Analysis
-	https://projectsbasedlearning.com/apache-spark-analytics/slack-data-analysis/
+Medical Appointment Data Analysis
+https://projectsbasedlearning.com/apache-spark-analytics/medical-appointment-data-analysis/
 
-	Medical Appointment Data Analysis
-	https://projectsbasedlearning.com/apache-spark-analytics/medical-appointment-data-analysis/
+Healthcare Analytics for Beginners Part 1
+https://projectsbasedlearning.com/apache-spark-analytics/healthcare-analytics-for-beginners-part-1/
 
-	Healthcare Analytics for Beginners Part 1
-	https://projectsbasedlearning.com/apache-spark-analytics/healthcare-analytics-for-beginners-part-1/
+Healthcare Analytics for Beginners Part 2
+https://projectsbasedlearning.com/apache-spark-analytics/healthcare-analytics-for-beginners-part-2/
 
-	Healthcare Analytics for Beginners Part 2
-	https://projectsbasedlearning.com/apache-spark-analytics/healthcare-analytics-for-beginners-part-2/
+Marketing Analytics Part 1
+https://projectsbasedlearning.com/apache-spark-analytics/marketing-analytics-part-1/
 
-  Marketing Analytics Part 1
-  https://projectsbasedlearning.com/apache-spark-analytics/marketing-analytics-part-1/
+Marketing Analytics Part 2
+https://projectsbasedlearning.com/apache-spark-analytics/marketing-analytics/
 
-  Marketing Analytics Part 2
-  https://projectsbasedlearning.com/apache-spark-analytics/marketing-analytics/
+Marketing Analytics Part 3
+https://projectsbasedlearning.com/apache-spark-analytics/marketing-analytics-2/
 
-  Marketing Analytics Part 3
-  https://projectsbasedlearning.com/apache-spark-analytics/marketing-analytics-2/
+Sentiment Analysis on Demonetization in India using Apache Spark
+https://projectsbasedlearning.com/apache-spark-analytics/sentiment-analysis-on-demonetization-in-india-using-apache-spark/
 
-
-	Sentiment Analysis on Demonetization in India using Apache Spark
-	https://projectsbasedlearning.com/apache-spark-analytics/sentiment-analysis-on-demonetization-in-india-using-apache-spark/
 
 3. Apache Spark Machine Learning
 https://projectsbasedlearning.com/category/apache-spark-machine-learning/
