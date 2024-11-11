@@ -1,7 +1,7 @@
 
 Projects from GeekGorGeeks completed or in progress. 
 
-Text Summarization
+## **Text Summarization**
 
 Developed an NLP-based text summarization tool that automatically condenses long pieces of text into concise summaries, preserving essential information and key points. This project leverages techniques like extractive and abstractive summarization to enhance readability and efficiency.
 
