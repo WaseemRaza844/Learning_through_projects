@@ -2,7 +2,7 @@
 Here is the list of the on-going projects in the area of Big Data using Apache Spark, and Hadoop, with the focus of Data Analysis, and Machine Learning. 
 
 
-0. Bigdata Hadoop
+1. Bigdata Hadoop
 Mainly involves installing various tools like Apache Druid, Kafka Cluster, MySQL, Apache Sqoop, Apache Spark, on various platoforms like Ubuntu, Windows etc. 
 
   Customer Complaints Analysis Part 1
@@ -17,10 +17,9 @@ Mainly involves installing various tools like Apache Druid, Kafka Cluster, MySQL
   Sensex Log Data Processing (PDF File Processing in Map Reduce) Part 2
 
 
-1. Apache Spark Analytics
+2. Apache Spark Analytics
 https://projectsbasedlearning.com/category/apache-spark-analytics/
-
-
+	
 	Vehicle Sales Report – Data Analysis
 	https://projectsbasedlearning.com/apache-spark-analytics/vehicle-sales-report-data-analysis/
 
@@ -53,8 +52,8 @@ https://projectsbasedlearning.com/category/apache-spark-analytics/
 	Sentiment Analysis on Demonetization in India using Apache Spark
 	https://projectsbasedlearning.com/apache-spark-analytics/sentiment-analysis-on-demonetization-in-india-using-apache-spark/
 
-2. Apache Spark Machine Learning
-   https://projectsbasedlearning.com/category/apache-spark-machine-learning/
+3. Apache Spark Machine Learning
+https://projectsbasedlearning.com/category/apache-spark-machine-learning/
 
   Life Expectancy Prediction using Machine Learning – Part 1
   https://projectsbasedlearning.com/apache-spark-machine-learning/life-expectancy-prediction-using-machine-learning/
@@ -69,7 +68,7 @@ https://projectsbasedlearning.com/category/apache-spark-analytics/
   https://projectsbasedlearning.com/apache-spark-machine-learning/machine-learning-project-loan-approval-prediction/
 
 
-Other Mixed Projects Links
+4. Other Mixed Projects Links
   Top Hadoop Projects and Spark Projects for Beginners 2024
   https://www.projectpro.io/article/8-common-hadoop-projects-and-spark-projects/182
   
